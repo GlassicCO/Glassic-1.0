@@ -3,6 +3,6 @@ uvicorn==0.24.0
 python-multipart==0.0.6
 simple-lama-inpainting
 opencv-python-headless
-pillow<=10.4.0
+pillow==10.4.0
 numpy~=1.26.0
 torch --extra-index-url https://download.pytorch.org/whl/cpu
